@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="vrMkvB33sxHrUC-OY-xE">
-    <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hCwQTD3uWZ0XbX2DvLEV-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.simple_storage_service_directory_bucket;" vertex="1" parent="1">
-          <mxGeometry x="700" y="110" width="75" height="78" as="geometry" />
+          <mxGeometry x="700" y="109" width="75" height="78" as="geometry" />
         </mxCell>
         <mxCell id="hCwQTD3uWZ0XbX2DvLEV-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="76.5" height="93" as="geometry" />
@@ -40,6 +40,15 @@
             <mxPoint x="580" y="220" as="sourcePoint" />
             <mxPoint x="690" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hCwQTD3uWZ0XbX2DvLEV-24" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=14;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCwQTD3uWZ0XbX2DvLEV-25" value="&lt;h4&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px; color: rgb(0, 0, 0);&quot;&gt;CLOUD FRONT&lt;/font&gt;&lt;/b&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="508.25" y="236.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
